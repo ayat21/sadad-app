@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574423786701",
+    "project_id": "sadadapplication",
+    "storage_bucket": "sadadapplication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574423786701:android:93ed768edec25974dcb584",
+        "android_client_info": {
+          "package_name": "com.example.sadadet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2-ICubv9NsO5O0SfbHXR-X3RMuPChzGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
